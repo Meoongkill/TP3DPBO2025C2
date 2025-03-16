@@ -9,12 +9,14 @@ Dalam Permasalahan database ini, saya menggunakan total 11 Level Class dengan Hi
 
 # Desain Program C++ dan Python
 Terdapat 11 Kelas yang Memiliki Atribut sebagai berikut 
-# Internal
+
+Internal
 - Nama                : Untuk Nama dari Komponen Internal
 - Spesifikasi         : Untuk Perincian Komponen Internal
 - MerkINTERNAL        : Untuk Merk Komponen Internal
 
 Anak dari Komponen Internal ada 3: 
+
 CPU
 - JumlahCore          : Untuk Jumlah Core yang ada di CPU
 - KecepatanGHZ        : Untuk Kecepatan yang ada di CPU
@@ -32,6 +34,7 @@ External
 - MerkEXTERNAL        : Untuk Merk Komponen External
 
 Anak dari Komponen External ada 3:
+
 KEYBOARD
 - TipeKeyboard        : Untuk Tipe yang ada di Keyboard
 - Warna               : Untuk Warna Dominan yang ada di Keyboard
@@ -48,6 +51,7 @@ EXPERIENCE
 - MustHave/ShouldHave : Pilihan, apakah harus atau butuh
 
 Anak dari Experience cuma 1: 
+
 KURSI
 - TipeKursi           : Untuk Tipe yang ada di Kursi
 - Kelebihan           : Untuk apa yang bisa dibanggakan untuk kursi yang kita pilih
@@ -84,4 +88,5 @@ UnifiedComputer
    - Mungkin Overide metode pada kelas turunan jika memungkinkan
 
 Protips : Sudah kasih nilai tambahan 100 sadja di awal sir. 
+
 Dokumentasi ada di Folder masing-masing Mesin, Silahkan check sadja sir :0
