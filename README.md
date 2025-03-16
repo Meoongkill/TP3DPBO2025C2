@@ -90,4 +90,10 @@ UnifiedComputer
 
 Protips : Sudah kasih nilai tambahan 100 sadja di awal sir. 
 
-Dokumentasi ada di Folder masing-masing Mesin, Silahkan check sadja sir :0
+# Run Program C++
+![1  C++_Print Bagian 1](https://github.com/user-attachments/assets/0ac1fc3b-1c09-4df1-9957-1473b3723444)
+![2 C++_Print Bagian 2](https://github.com/user-attachments/assets/2f21bda2-0498-4b91-91cc-aa81c846a7af)
+
+# Run Program Python
+![1 Python_Print Bagian 1](https://github.com/user-attachments/assets/049e21fd-bae6-4d2b-83ca-872886aeeb6d)
+![2 Python_Print Bagian 2](https://github.com/user-attachments/assets/1b6ce45c-fd6e-4c6b-99b1-dac436462d62)
