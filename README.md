@@ -5,7 +5,8 @@ Saya Muhammad Fathan Putra dengan NIM 2300330 mengerjakan soal Tugas Praktikum 3
 
 # Struktur Kelas
 Dalam Permasalahan database ini, saya menggunakan total 11 Level Class dengan Hierarki yang terhubung sebagai berikut: 
-![image](https://github.com/user-attachments/assets/a2dc8962-5490-4c42-82dc-2459ebb4b29c)
+![image](https://github.com/user-attachments/assets/97e0c48c-6dad-4323-833a-48a3945e1f05)
+
 
 # Desain Program C++ dan Python
 Terdapat 11 Kelas yang Memiliki Atribut sebagai berikut 
@@ -48,7 +49,7 @@ MOUSE
 - Kecepatan           : Untuk DPI yang ada di Mouse
    
 EXPERIENCE
-- MustHave/ShouldHave : Pilihan, apakah harus atau butuh
+- ExperienceFeel : Pilihan, apakah harus atau butuh
 
 Anak dari Experience cuma 1: 
 
